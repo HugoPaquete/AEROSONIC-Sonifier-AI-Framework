@@ -79,3 +79,56 @@ The exact implementation of these transformations is proprietary and not include
 
 ## Conceptual Data Flow
 
+Meteorological Data
+↓
+Environmental Input Layer
+↓
+AI Behavioural Layer
+↓
+Musical Output Layer
+↓
+AEROSONIC Sonifier
+
+
+This flow represents the conceptual pipeline from environmental sensing to musical expression.
+
+---
+
+## Agent Interaction Model
+
+The architecture is based on **distributed interaction** rather than hierarchical control.  
+Conceptually:
+
+- The **Weather Agent** informs the **Anomaly Detector**.  
+- The **Anomaly Detector** influences the **State Machine**.  
+- The **State Machine** coordinates transitions across all agents.  
+- The **Dreaming AI** and **Quantum State Agent** form a probabilistic pair.  
+- The **Harmonic Field Agent** and **Rhythm Engine** maintain musical coherence.  
+
+This structure allows for emergent behaviour and adaptive musical evolution.
+
+---
+
+## Architectural Principles
+
+- **Modularity** — each agent is independent and conceptually self‑contained.  
+- **Emergence** — global behaviour arises from agent interaction.  
+- **Adaptivity** — the system responds continuously to environmental change.  
+- **Abstraction** — conceptual design is separated from implementation.  
+- **Protection** — no code, algorithms or parameters are exposed.
+
+---
+
+## Notes on Proprietary Implementation
+
+The architecture described here is conceptual.  
+The following elements are intentionally excluded:
+
+- source code  
+- model architectures  
+- training data  
+- algorithmic logic  
+- parameter values  
+- internal communication protocols  
+
+This ensures the protection of the AEROSONIC Sonifier’s intellectual property.
