@@ -1,6 +1,8 @@
 # AEROSONIC Sonifier — AI Framework (Conceptual Documentation)
 
-This repository documents the **conceptual architecture** of the AI system developed for the **AEROSONIC Sonifier** — a real‑time meteorological sonification environment integrating unsupervised learning, multi‑agent behaviour, and generative musical control.
+It is important to emphasise that the AEROSONIC Sonifier is not a system that generates random MIDI or control data. Instead, it operates as an intelligent, multi‑agent behavioural ecosystem in which musical decisions emerge from environmental interpretation, probabilistic reasoning and artificial intelligence.
+
+This repository documents the **conceptual architecture** of the AI system developed for the **AEROSONIC Sonifier** — a real‑time meteorological sonification environment integrating unsupervised learning, multi‑agent behaviour and generative musical control.
 
 The goal of this repository is to provide a **scientific and structural overview** of the system **without exposing proprietary code**, algorithms, model parameters or implementation details.
 
@@ -8,7 +10,7 @@ The goal of this repository is to provide a **scientific and structural overview
 
 ## Purpose
 
-The AEROSONIC Sonifier‑AI‑Framework describes:
+The AEROSONIC Sonifier — AI Framework describes:
 
 - the conceptual design of the AI layer  
 - the agents that compose the system  
@@ -26,10 +28,10 @@ No source code, model weights or internal algorithms are included.
 The system is composed of several interacting agents:
 
 - **Weather Agent** — interprets meteorological data and detects patterns or anomalies  
-- **Anomaly Detector** — identifies rare or unexpected states  
-- **Dreaming AI** — generates probabilistic variations and emergent behaviours  
-- **Quantum State Agent** — manages stochastic transitions and event probabilities  
-- **Harmonic Field Agent** — shapes harmonic space and tonal behaviour  
+- **Anomaly Detector** — identifies rare or unexpected environmental states  
+- **Dreaming AI** — generates imaginative variations and emergent behaviours  
+- **Quantum State Agent** — manages stochastic transitions and probabilistic collapse events  
+- **Harmonic Field Agent** — shapes harmonic regions and tonal behaviour  
 - **Rhythm Engine** — produces temporal structures and rhythmic states  
 - **State Machine** — coordinates global system behaviour and transitions  
 
@@ -39,6 +41,7 @@ Detailed descriptions are available in `docs/agents.md`.
 
 ## Documentation Structure
 
+```
 docs/
 │
 ├── overview.md
@@ -48,8 +51,12 @@ docs/
 ├── ai-models.md
 ├── conceptual-mapping.md
 ├── glossary.md
-└── references.md
-
+├── references.md
+├── system-context.md
+├── use-cases.md
+├── methodology.md
+└── system-diagram.md
+```
 
 Each document expands a different layer of the conceptual framework.
 
@@ -57,14 +64,16 @@ Each document expands a different layer of the conceptual framework.
 
 ## Scientific Context
 
-This framework is part of the research developed under the **FCT CEEC‑IND Grant 2024.09158.CEECIND — “AI as Catalyst”**, hosted at **INET‑md, University of Aveiro**.
+This framework is part of the research developed under the  
+**FCT CEEC‑IND Grant 2024.09158.CEECIND — “AI as Catalyst”**,  
+hosted at **INET‑md, University of Aveiro**.
 
 The project investigates:
 
 - artificial intelligence as a catalyst for artistic creation  
 - real‑time sonification of environmental data  
 - emergent behaviour in computational musical systems  
-- hybrid architectures combining rule‑based, probabilistic, and chaotic processes  
+- hybrid architectures combining rule‑based, probabilistic and chaotic processes  
 
 ---
 
@@ -87,24 +96,24 @@ This documentation focuses specifically on the **AI layer**, which mediates betw
 
 ## What This Repository Contains
 
-- Conceptual descriptions of AI agents  
-- High‑level architecture diagrams (textual)  
-- Data flow explanations  
-- Conceptual mapping strategies  
-- Glossary of system terminology  
-- Scientific references  
-- Contextual framing for academic publication  
+- conceptual descriptions of AI agents  
+- high‑level architecture diagrams (textual)  
+- data flow explanations  
+- conceptual mapping strategies  
+- glossary of system terminology  
+- scientific references  
+- contextual framing for academic publication  
 
 ---
 
 ## What This Repository Does *Not* Contain
 
-- Source code  
-- Model architectures or parameters  
-- Training data  
-- Proprietary algorithms  
-- Implementation details  
-- Internal logic of the AEROSONIC Sonifier engine  
+- source code  
+- model architectures or parameters  
+- training data  
+- proprietary algorithms  
+- implementation details  
+- internal logic of the AEROSONIC Sonifier engine  
 
 This ensures the protection of intellectual property while enabling scientific clarity and reproducibility at the conceptual level.
 
@@ -147,6 +156,4 @@ This license allows citation and academic reference but prohibits commercial use
 ## Intellectual Property Notice
 
 This repository provides **conceptual and scientific documentation only**.  
-All implementation details — including code, algorithms, model architectures, parameters, training data, and internal logic — remain private and are not included here.
-
-
+All implementation details — including code, algorithms, model architectures, parameters, training data and internal logic — remain private and are not included here.
