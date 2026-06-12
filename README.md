@@ -15,27 +15,29 @@
 
 # 1. Purpose
 
-The AEROSONIC Sonifier — AI Framework provides:
+The **AEROSONIC Sonifier — AI Framework** provides a conceptual and scientific overview of the artificial intelligence layer that structures the AEROSONIC ecosystem.  
+It outlines:
 
-- a conceptual description of the AI layer  
-- an overview of the agents composing the system  
+- the conceptual design of the AI agents  
 - the data flow between meteorological input and musical output  
-- the principles guiding state transitions and emergent behaviour  
+- the principles governing state transitions and emergent behaviour  
 - the scientific context of the CEEC‑FCT project *“AI as Catalyst”*  
 
 This repository contains **documentation only**.  
-No source code, model weights or internal algorithms are included.
+No source code, model weights or proprietary algorithms are included.
 
 ---
 
 # 2. AI Agents (Conceptual Overview)
 
+The system is composed of several interacting agents:
+
 - **Weather Agent** — interprets meteorological data  
-- **Anomaly Detector** — identifies rare or unexpected states  
-- **Dreaming AI** — generates imaginative variations  
-- **Quantum State Agent** — manages stochastic transitions  
-- **Harmonic Field Agent** — shapes harmonic behaviour  
-- **Rhythm Engine** — produces temporal structures  
+- **Anomaly Detector** — identifies rare or unexpected environmental states  
+- **Dreaming AI** — generates imaginative variations and emergent behaviours  
+- **Quantum State Agent** — manages stochastic transitions and collapse events  
+- **Harmonic Field Agent** — shapes harmonic regions and tonal behaviour  
+- **Rhythm Engine** — produces temporal structures and rhythmic states  
 - **State Machine** — coordinates global system behaviour  
 
 Full descriptions: `docs/agents.md`
@@ -65,13 +67,13 @@ docs/
 
 # 4. Scientific Context
 
-This framework is developed under the  
+This framework is developed within the  
 **FCT CEEC‑IND Grant 2024.09158.CEECIND — “AI as Catalyst”**,  
 hosted at **INET‑md, University of Aveiro**.
 
 The project investigates:
 
-- AI as a catalyst for artistic creation  
+- artificial intelligence as a catalyst for artistic creation  
 - real‑time environmental sonification  
 - emergent behaviour in computational musical systems  
 - hybrid rule‑based, probabilistic and chaotic architectures  
@@ -80,7 +82,7 @@ The project investigates:
 
 # 5. Relationship to the AEROSONIC Ecosystem
 
-The AEROSONIC Sonifier integrates with:
+The AEROSONIC Sonifier operates within a broader ecosystem integrating:
 
 - real‑time meteorological data acquisition  
 - anomaly detection (Isolation Forest)  
@@ -91,19 +93,21 @@ The AEROSONIC Sonifier integrates with:
 - multi‑agent interaction  
 - audiovisual rendering  
 
-This documentation focuses on the **AI layer**.
+This documentation focuses specifically on the **AI layer**.
 
 ---
 
 > **AEROSONIC SONIFIER** is an unsupervised AI‑driven system that transforms meteorological and atmospheric data into real‑time musical behaviour.  
-> It uses **Isolation Forest** for anomaly detection, multi‑agent interaction for emergent behaviour, and conceptual AI modelling to generate harmonic, rhythmic and structural transformations.
+> It employs **Isolation Forest** for anomaly detection, multi‑agent interaction for emergent behaviour, and conceptual AI modelling to generate harmonic, rhythmic and structural transformations.
 
-It is important to emphasise that the AEROSONIC Sonifier is **not** a system that generates random MIDI or control data.  
-Instead, it operates as an **intelligent, multi‑agent behavioural ecosystem** in which musical decisions emerge from environmental interpretation, probabilistic reasoning and artificial intelligence.
+It is essential to emphasise that the AEROSONIC Sonifier is **not** a random MIDI generator.  
+It functions as an **intelligent, multi‑agent behavioural ecosystem**, where musical decisions emerge from environmental interpretation, probabilistic reasoning and artificial intelligence.
 
-## Architecture Overview
+---
 
-The following conceptual diagram illustrates the full architecture of the **AEROSONIC Sonifier** system, including data intake, AI intelligence, sonic generation, audiovisual output, and adaptive feedback loops.
+# Architecture Overview
+
+The diagram below illustrates the full conceptual architecture of the **AEROSONIC Sonifier**, including data intake, AI perception, dreaming processes, sonic generation, audiovisual rendering and adaptive feedback loops.
 
 <p align="center">
   <img src="assets/images/aerosonic_architecture_overview.png" alt="AEROSONIC Sonifier Architecture Overview" width="85%">
@@ -120,7 +124,7 @@ The following conceptual diagram illustrates the full architecture of the **AERO
 # System Interface Gallery
 
 The following images document the visual identity, monitoring dashboards and real‑time environmental interfaces of the **AEROSONIC Sonifier**.  
-These interfaces illustrate how meteorological data, anomaly detection, harmonic/chaotic states and quantum‑inspired behaviours are represented visually within the system.
+They illustrate how meteorological data, anomaly detection, harmonic/chaotic states and quantum‑inspired behaviours are represented visually within the system.
 
 ---
 
@@ -162,6 +166,7 @@ These interfaces illustrate how meteorological data, anomaly detection, harmonic
 
 <p align="center"><em>Figure 5 — Kigali interface with meteorological data, sunspot activity, quantum field metrics and generative performance parameters.</em></p>
 
+---
 
 # 6. Tools & AI Assistance
 
@@ -239,3 +244,11 @@ Allows citation and academic reference; prohibits commercial use and derivative 
 
 This repository provides **conceptual and scientific documentation only**.  
 All implementation details — including code, algorithms, model architectures, parameters, training data and internal logic — remain private and are not included here.
+
+---
+
+# GitHub Topics
+
+```
+ai artificial-intelligence sonification weather-data meteorology data-sonification generative-music sound-art multi-agent-system conceptual-framework anomaly-detection isolation-forest real-time-system audiovisual computational-creativity environmental-data climate-data artistic-research
+```
