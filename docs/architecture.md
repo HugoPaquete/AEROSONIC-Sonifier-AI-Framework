@@ -1,6 +1,6 @@
 # Architecture
 
-The architecture of the AEROSONIC Sonifier — AI Framework is based on a modular, multi‑agent system designed to transform meteorological data into dynamic musical behaviour.  
+The architecture of the **AEROSONIC Sonifier — AI Framework** is based on a modular, multi‑agent system designed to transform meteorological data into dynamic musical behaviour.  
 This document provides a conceptual overview of the system’s structure without revealing implementation details or proprietary algorithms.
 
 ---
@@ -10,55 +10,66 @@ This document provides a conceptual overview of the system’s structure without
 The system is organised into three conceptual layers:
 
 1. **Environmental Input Layer**  
-   Receives and interprets meteorological data.
+   Receives, normalises and interprets meteorological data.
 
 2. **AI Behavioural Layer**  
-   A multi‑agent ecosystem responsible for analysis, generative behaviour and state transitions.
+   A distributed multi‑agent ecosystem responsible for analysis, generative behaviour and state transitions.
 
 3. **Musical Output Layer**  
-   Produces harmonic, rhythmic and structural transformations in the sonification engine.
+   Produces harmonic, rhythmic, structural and expressive transformations in the sonification engine.
 
-These layers interact continuously to maintain an adaptive musical system.
+These layers interact continuously to maintain an adaptive, emergent and musically coherent system.
 
 ---
 
 ## Layer 1 — Environmental Input Layer
 
-This layer includes:
+This layer acts as the **sensory system** of the framework.  
+It includes:
 
-- **Weather Agent**  
-  Interprets meteorological data and extracts meaningful features.
+### **Weather Agent**
+- Interprets meteorological data  
+- Normalises variables into a conceptual feature space  
+- Detects environmental tendencies and contextual patterns  
 
-- **Anomaly Detector**  
-  Identifies unusual or rare environmental conditions.
+### **Anomaly Detector**
+- Identifies rare or unusual meteorological conditions  
+- Signals transitions into special behavioural states  
+- Influences Dreaming AI and Quantum State dynamics  
 
-Conceptually, this layer acts as the sensory system of the framework.
+Together, these components transform raw environmental data into meaningful conceptual information.
 
 ---
 
 ## Layer 2 — AI Behavioural Layer
 
-This is the core of the system.  
+This is the **core** of the system.  
 It contains the agents responsible for generative behaviour, probabilistic transitions and emergent musical states.
 
-### Components:
+### Components
 
-- **Dreaming AI**  
-  Generates alternative trajectories and imaginative variations.
+#### **Dreaming AI**
+- Generates alternative trajectories and imaginative variations  
+- Introduces emergent behaviour and exploratory tendencies  
 
-- **Quantum State Agent**  
-  Manages stochastic transitions and event probabilities.
+#### **Quantum State Agent**
+- Manages stochastic transitions and collapse events  
+- Regulates unpredictability and fluidity  
 
-- **Harmonic Field Agent**  
-  Defines harmonic regions and tonal behaviour.
+#### **Harmonic Field Agent**
+- Defines harmonic regions and tonal behaviour  
+- Responds to environmental intensity  
 
-- **Rhythm Engine**  
-  Produces rhythmic structures and temporal patterns.
+#### **Rhythm Engine**
+- Produces rhythmic structures and temporal patterns  
+- Adapts density, tempo and mode to system behaviour  
 
-- **State Machine**  
-  Coordinates global behaviour and ensures coherence.
+#### **State Machine**
+- Coordinates global behaviour  
+- Integrates signals from all agents  
+- Ensures coherence and continuity  
 
-This layer operates as a distributed system where agents influence each other through conceptual signals rather than direct code‑level communication.
+This layer operates as a **distributed system**, where agents influence each other through conceptual signals rather than direct code‑level communication.
 
 ---
 
@@ -79,16 +90,17 @@ The exact implementation of these transformations is proprietary and not include
 
 ## Conceptual Data Flow
 
+```
 Meteorological Data
-↓
+        ↓
 Environmental Input Layer
-↓
+        ↓
 AI Behavioural Layer
-↓
+        ↓
 Musical Output Layer
-↓
+        ↓
 AEROSONIC Sonifier
-
+```
 
 This flow represents the conceptual pipeline from environmental sensing to musical expression.
 
@@ -96,16 +108,26 @@ This flow represents the conceptual pipeline from environmental sensing to music
 
 ## Agent Interaction Model
 
-The architecture is based on **distributed interaction** rather than hierarchical control.  
+The architecture is based on **distributed interaction**, not hierarchical control.
+
 Conceptually:
 
-- The **Weather Agent** informs the **Anomaly Detector**.  
-- The **Anomaly Detector** influences the **State Machine**.  
-- The **State Machine** coordinates transitions across all agents.  
-- The **Dreaming AI** and **Quantum State Agent** form a probabilistic pair.  
-- The **Harmonic Field Agent** and **Rhythm Engine** maintain musical coherence.  
+- **Weather Agent → Anomaly Detector**  
+  Provides structured environmental features.
 
-This structure allows for emergent behaviour and adaptive musical evolution.
+- **Anomaly Detector → State Machine**  
+  Triggers special or transitional states.
+
+- **Dreaming AI ↔ Quantum State Agent**  
+  Forms a probabilistic pair balancing imagination and stochasticity.
+
+- **Harmonic Field Agent ↔ Rhythm Engine**  
+  Maintains musical coherence across harmonic and temporal dimensions.
+
+- **State Machine → All Agents**  
+  Coordinates global behaviour and macro‑structure.
+
+This structure enables **emergent behaviour**, adaptivity and expressive evolution.
 
 ---
 
