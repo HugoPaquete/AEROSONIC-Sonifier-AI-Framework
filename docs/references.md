@@ -1,7 +1,7 @@
 # References
 
-This document lists general scientific and conceptual references relevant to the AEROSONIC Sonifier — AI Framework.  
-These references provide context for the fields of sonification, artificial intelligence, multi‑agent systems and generative musical behaviour.
+This document lists general scientific and conceptual references relevant to the **AEROSONIC Sonifier — AI Framework**.  
+These works provide context for the fields of sonification, artificial intelligence, multi‑agent systems, generative musical behaviour and environmental data interpretation.
 
 No implementation details or proprietary sources are disclosed.
 
@@ -10,7 +10,7 @@ No implementation details or proprietary sources are disclosed.
 ## Sonification and Auditory Display
 
 - Hermann, T., Hunt, A., & Neuhoff, J. G. (Eds.). *The Sonification Handbook*.  
-- Kramer, G. *Auditory Display: Sonification, Audification and Auditory Interfaces*.  
+- Kramer, G. (Ed.). *Auditory Display: Sonification, Audification and Auditory Interfaces*.  
 - Walker, B. N., & Nees, M. A. *Theory of Sonification*.
 
 ---
@@ -26,7 +26,7 @@ No implementation details or proprietary sources are disclosed.
 ## Generative and Computational Music
 
 - Roads, C. *Microsound*.  
-- Rowe, R. *Interactive Music Systems*.  
+- Rowe, R. *Interactive Music Systems: Machine Listening and Composing*.  
 - Collins, N. *Introduction to Computer Music*.
 
 ---
@@ -48,7 +48,8 @@ No implementation details or proprietary sources are disclosed.
 
 ## Research Context
 
-This framework is developed under the FCT CEEC‑IND Grant **2024.09158.CEECIND — “AI as Catalyst”**,  
+This framework is developed under the FCT CEEC‑IND Grant  
+**2024.09158.CEECIND — “AI as Catalyst”**,  
 INET‑md, University of Aveiro.
 
 These references support the conceptual foundations of the AEROSONIC Sonifier — AI Framework.
