@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)]()
 [![AI Assistance: DeepSeek](https://img.shields.io/badge/AI%20Assistance-DeepSeek%20AI-orange.svg)](https://www.deepseek.com)
 [![AI Assistance: Microsoft Copilot](https://img.shields.io/badge/AI%20Assistance-Microsoft%20Copilot-0078D4.svg)](https://copilot.microsoft.com)
-[![DOI](https://img.shields.io/badge/DOI-Zenodo%20Pending-blue.svg)]()
+[![DOI](https://zenodo.org/badge/1267019762.svg)](https://doi.org/10.5281/zenodo.20664542)
 
 ---
 
