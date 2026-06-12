@@ -1,59 +1,109 @@
 # Overview
 
-The **AEROSONIC Sonifier — AI Framework** provides a conceptual description of the artificial intelligence layer that supports the AEROSONIC Sonifier system. This documentation outlines the structure, behaviour and interaction of the AI agents responsible for transforming meteorological data into dynamic musical states.
+The AEROSONIC Sonifier — AI Framework provides a conceptual and scientific description of the artificial intelligence layer that drives the AEROSONIC Sonifier system. It outlines the structure, behaviour, and interaction of the computational agents responsible for transforming meteorological data into dynamic musical and audiovisual states.
 
-This repository does not include source code, model parameters, training data or implementation details. Instead, it focuses on the scientific and architectural principles that guide the system’s design.
+This repository does not include source code, model parameters, training data, or implementation details. Instead, it focuses on the theoretical, architectural, and methodological principles that support the system’s design.
 
----
+🎯 Objectives
+Describe the conceptual architecture of the AI system.
 
-## Objectives
+Present the agents and their functional roles within the ecosystem.
 
-- Describe the conceptual architecture of the AI system.
-- Present the agents and their roles within the ecosystem.
-- Explain the data flow from meteorological input to musical output.
-- Provide a high‑level understanding of the generative logic.
-- Support academic transparency while preserving proprietary implementation.
+Explain the data flow from meteorological input to musical and visual output.
 
----
+Provide a high‑level understanding of the generative logic and emergent behaviour.
 
-## Scientific Context
+Support academic transparency while preserving proprietary implementation.
 
-This framework is part of the research developed under the FCT CEEC‑IND Grant **2024.09158.CEECIND — “AI as Catalyst”**, hosted at **INET‑md, University of Aveiro**.  
-The project investigates the role of artificial intelligence as a catalyst for artistic creation, focusing on real‑time sonification, emergent behaviour and computational musical systems.
+🧪 Scientific Context
+This framework is part of the research developed under the FCT CEEC‑IND Grant
+2024.09158.CEECIND — “AI as Catalyst”, hosted at INET‑md, University of Aveiro.
 
----
+The project investigates:
 
-## Relationship to the AEROSONIC Ecosystem
+artificial intelligence as a catalyst for artistic creation
 
-The AEROSONIC Sonifier operates as one of the core modules of the broader AEROSONIC ecosystem, which integrates:
+real‑time sonification of environmental data
 
-- real‑time meteorological data acquisition  
-- anomaly detection  
-- unsupervised learning  
-- generative musical processes  
-- multi‑agent interaction  
+emergent behaviour in computational musical systems
 
-This documentation describes the AI layer that mediates between environmental data and musical expression.
+hybrid architectures combining rule‑based, probabilistic, and chaotic processes
 
----
+🌩️ Relationship to the AEROSONIC Ecosystem
+The AEROSONIC Sonifier is one of the core modules of the broader AEROSONIC ecosystem, which integrates:
 
-## What This Repository Contains
+real‑time meteorological data acquisition
 
-- Conceptual descriptions of AI agents  
-- High‑level architecture diagrams (textual)  
-- Data flow explanations  
-- Conceptual mapping strategies  
-- Glossary of system terminology  
-- Scientific references  
+anomaly detection (Isolation Forest)
 
----
+heuristic emotional modelling (DreamingAI)
 
-## What This Repository Does *Not* Contain
+quantum‑inspired modulation
 
-- Source code  
-- Model architectures or parameters  
-- Training data  
-- Proprietary algorithms  
-- Implementation details  
+chaotic data mutation
 
-This ensures the protection of intellectual property while enabling academic clarity.
+generative musical processes (drones, rhythms, rain textures)
+
+multi‑agent interaction
+
+audiovisual rendering
+
+This documentation focuses specifically on the AI layer, which mediates between environmental data and musical expression.
+
+📦 What This Repository Contains
+Conceptual descriptions of AI agents
+
+High‑level architecture diagrams (textual)
+
+Data flow explanations
+
+Conceptual mapping strategies
+
+Glossary of system terminology
+
+Scientific references
+
+Contextual framing for academic publication
+
+🚫 What This Repository Does Not Contain
+Source code
+
+Model architectures or parameters
+
+Training data
+
+Proprietary algorithms
+
+Implementation details
+
+Internal logic of the AEROSONIC Sonifier engine
+
+This ensures the protection of intellectual property while enabling scientific clarity and reproducibility at the conceptual level.
+
+🔍 Scope and Purpose
+The AI Framework documentation serves as:
+
+a scientific reference for researchers
+
+a conceptual guide for artists and developers
+
+a foundation for academic publications
+
+a transparent description of the system’s behaviour without exposing implementation details
+
+It is designed to support conferences, journals, and interdisciplinary research in:
+
+sonification
+
+generative music
+
+artificial intelligence
+
+human‑computer interaction
+
+digital art and computational creativity
+
+📚 Citation
+If referencing this framework in academic work:
+
+Paquete, H. (2026). AEROSONIC Sonifier — AI Framework Documentation. INET‑md / University of Aveiro.
