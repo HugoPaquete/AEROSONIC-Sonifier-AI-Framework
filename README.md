@@ -94,6 +94,22 @@ This documentation focuses specifically on the **AI layer**, which mediates betw
 
 ---
 
+## Related Links
+
+> 🌐 **Hugo Paquete — Official Website**  
+> https://hugopaquete.com/
+
+> 🧪 **Absonus Lab — Research & Artistic Laboratory**  
+> https://absonuslab.org/
+
+> 🎓 **INET‑md — Researcher Profile**  
+> https://www.inetmd.pt/equipa/hugo-paquete/
+
+> 🧬 **AI as Catalyst — CEEC‑FCT Project Page**  
+> https://www.inetmd.pt/projetos-inet/ai-as-catalyst-impactos-transformadores-na-performance-digital-musica-computacional-e-criatividade-cultural/
+
+---
+
 ## What This Repository Contains
 
 - conceptual descriptions of AI agents  
