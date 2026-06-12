@@ -117,6 +117,52 @@ The following conceptual diagram illustrates the full architecture of the **AERO
 
 ---
 
+# System Interface Gallery
+
+The following images document the visual identity, monitoring dashboards and real‑time environmental interfaces of the **AEROSONIC Sonifier**.  
+These interfaces illustrate how meteorological data, anomaly detection, harmonic/chaotic states and quantum‑inspired behaviours are represented visually within the system.
+
+---
+
+## System Monitor — Dakar (Optic‑Meteo)
+
+<p align="center">
+  <img src="assets/images/aerosonic_interface_dakar.png" alt="AEROSONIC Sonifier — Dakar Interface" width="90%">
+</p>
+
+<p align="center"><em>Figure 2 — System Monitor for Dakar, showing real‑time weather data, anomaly detection, quantum state metrics and harmonic/chaotic modulation.</em></p>
+
+---
+
+## System Monitor — Vostok (Optic‑Meteo)
+
+<p align="center">
+  <img src="assets/images/aerosonic_interface_vostok.png" alt="AEROSONIC Sonifier — Vostok Interface" width="90%">
+</p>
+
+<p align="center"><em>Figure 3 — Vostok interface visualisation, representing extreme climate conditions, magnetic field modelling and dream‑state modulation.</em></p>
+
+---
+
+## System Monitor — Lisbon (Optic‑Meteo)
+
+<p align="center">
+  <img src="assets/images/aerosonic_interface_lisbon.png" alt="AEROSONIC Sonifier — Lisbon Interface" width="90%">
+</p>
+
+<p align="center"><em>Figure 4 — Lisbon interface showing harmonic/chaotic balance, atmospheric field modelling, quantum collapse state and system uptime.</em></p>
+
+---
+
+## System Monitor — Kigali (Optic‑Meteo)
+
+<p align="center">
+  <img src="assets/images/aerosonic_interface_kigali.png" alt="AEROSONIC Sonifier — Kigali Interface" width="90%">
+</p>
+
+<p align="center"><em>Figure 5 — Kigali interface with meteorological data, sunspot activity, quantum field metrics and generative performance parameters.</em></p>
+
+
 # 6. Tools & AI Assistance
 
 The development of the AEROSONIC Sonifier integrates advanced AI‑assisted research tools:
