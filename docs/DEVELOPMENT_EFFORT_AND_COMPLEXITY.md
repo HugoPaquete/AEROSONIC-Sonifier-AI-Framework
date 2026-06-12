@@ -82,9 +82,21 @@ Using reference values for specialised development in:
 
 …the estimated economic value of the full system is:
 
-### **22.500 €**
+### **18.000 € – 27.000 €**  
+**Reference midpoint value:** **22.500 €**
 
 This valuation contextualises the scale, technical depth and research impact of the AEROSONIC Sonifier within the CEEC‑IND framework.
+
+---
+
+### Hourly Rate Reference
+
+The valuation is based on standard reference rates for specialised development:
+
+- **45 €/hour** — conservative academic/technical rate  
+- **65 €/hour** — specialised AI + real‑time audio development rate  
+
+These values are consistent with European benchmarks for advanced creative‑computational systems.
 
 ---
 
