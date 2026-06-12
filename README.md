@@ -6,7 +6,7 @@ The goal of this repository is to provide a scientific and structural overview o
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The AEROSONIC Sonifier‑AI‑Framework describes:
 
@@ -21,7 +21,7 @@ No source code, model weights or internal algorithms are included.
 
 ---
 
-## 🧠 AI Agents (Conceptual Overview)
+## AI Agents (Conceptual Overview)
 
 The system is composed of several interacting agents:
 
@@ -37,7 +37,7 @@ Detailed descriptions are available in `docs/agents.md`.
 
 ---
 
-## 🧩 Documentation Structure
+## Documentation Structure
 
 
 docs/
@@ -56,21 +56,21 @@ Each document expands a different layer of the conceptual framework.
 
 ---
 
-## 🔒 Intellectual Property Notice
+## Intellectual Property Notice
 
 This repository provides **conceptual and scientific documentation only**.  
 All implementation details — including code, algorithms, model architectures, parameters, training data, and internal logic — remain private and are not included here.
 
 ---
 
-## 📄 License
+## License
 
 **CC BY‑NC‑ND 4.0**  
 This license allows citation and academic reference but prohibits commercial use, modification or redistribution of derivative versions.
 
 ---
 
-## 📚 Research Context
+## Research Context
 
 Developed under the FCT CEEC‑IND Grant 2024.09158.CEECIND  
 *AI as Catalyst — INET‑md, University of Aveiro*
