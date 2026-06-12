@@ -1,6 +1,6 @@
 # Data Flow
 
-This document describes the conceptual data flow within the AEROSONIC Sonifier — AI Framework.  
+This document describes the conceptual data flow within the **AEROSONIC Sonifier — AI Framework**.  
 It outlines how meteorological information is transformed into structured signals that drive the system’s generative musical behaviour.
 
 No implementation details, algorithms or code are included.
@@ -19,7 +19,7 @@ Conceptually, this includes:
 - precipitation  
 - derived or composite indicators  
 
-This raw data forms the sensory foundation of the system.
+This raw data forms the **sensory foundation** of the system.
 
 ---
 
@@ -32,42 +32,42 @@ Before reaching the AI agents, the data is conceptually:
 - contextualised  
 - transformed into a multidimensional feature space  
 
-This step ensures that the agents operate on structured, meaningful information rather than raw values.
+This ensures that the agents operate on **structured, meaningful information** rather than raw values.
 
 ---
 
 ## 3. Environmental Input Layer
 
-### Weather Agent  
-Receives the processed data and interprets it as environmental states.
+### **Weather Agent**  
+Interprets the processed data and converts it into conceptual environmental states.
 
-### Anomaly Detector  
+### **Anomaly Detector**  
 Evaluates deviations from typical patterns and signals rare or unexpected conditions.
 
-This layer acts as the perceptual interface of the system.
+This layer acts as the **perceptual interface** of the system.
 
 ---
 
 ## 4. AI Behavioural Layer
 
-This layer transforms environmental states into musical behaviour through multi‑agent interaction.
+This layer transforms environmental states into musical behaviour through **multi‑agent interaction**.
 
-### Dreaming AI  
+### **Dreaming AI**  
 Generates alternative trajectories and imaginative variations.
 
-### Quantum State Agent  
-Manages probabilities and stochastic transitions.
+### **Quantum State Agent**  
+Manages probabilities, stochastic transitions and collapse events.
 
-### Harmonic Field Agent  
-Shapes harmonic regions and tonal behaviour.
+### **Harmonic Field Agent**  
+Shapes harmonic regions, tonal behaviour and harmonic tension.
 
-### Rhythm Engine  
-Produces rhythmic structures and temporal patterns.
+### **Rhythm Engine**  
+Produces rhythmic structures, density patterns and temporal modes.
 
-### State Machine  
-Coordinates global behaviour and ensures coherence.
+### **State Machine**  
+Coordinates global behaviour, integrates agent signals and ensures coherence.
 
-The agents exchange conceptual signals rather than explicit data structures.
+Agents exchange **conceptual signals**, not explicit data structures.
 
 ---
 
@@ -82,7 +82,7 @@ The AI layer produces high‑level musical directives, such as:
 - expressive intensity  
 - probabilistic event triggers  
 
-These directives do not represent audio or synthesis parameters; they are conceptual musical states.
+These directives represent **conceptual musical states**, not synthesis parameters.
 
 ---
 
@@ -104,20 +104,21 @@ The exact implementation is proprietary and not included in this repository.
 
 ## Summary Diagram (Conceptual)
 
+```
 Meteorological Data
-↓
+        ↓
 Pre‑Processing & Feature Extraction
-↓
+        ↓
 Environmental Input Layer
-↓
+        ↓
 AI Behavioural Layer
-↓
+        ↓
 Behavioural Output
-↓
+        ↓
 Musical Output Layer
-↓
+        ↓
 AEROSONIC Sonifier
-
+```
 
 This diagram represents the conceptual pipeline from environmental sensing to musical expression.
 
