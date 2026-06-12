@@ -1,6 +1,6 @@
 # Conceptual Mapping
 
-This document describes the conceptual strategies used to map meteorological information into musical behaviour within the AEROSONIC Sonifier — AI Framework.  
+This document describes the conceptual strategies used to map meteorological information into musical behaviour within the **AEROSONIC Sonifier — AI Framework**.  
 The mappings presented here are abstract and do not reveal implementation details, algorithms, or parameter values.
 
 ---
@@ -14,7 +14,7 @@ Conceptual mapping defines how:
 - transitions occur between behaviours  
 - the system maintains coherence while remaining adaptive  
 
-These mappings serve as design principles rather than technical specifications.
+These mappings serve as **design principles**, not technical specifications.
 
 ---
 
@@ -28,7 +28,7 @@ Examples include:
 - **Atmospheric pressure shifts → structural transitions**  
 - **Humidity gradients → timbral or textural tendencies**  
 
-These relationships are conceptual and do not imply direct parameter control.
+These relationships describe tendencies, not direct parameter control.
 
 ---
 
@@ -56,13 +56,13 @@ The system operates through conceptual states, such as:
 - **Exploratory** — Dreaming AI influence  
 - **Collapsed** — Quantum State Agent resolution  
 
-Each state influences the behaviour of the agents and the resulting musical output.
+Each state influences agent behaviour and the resulting musical output.
 
 ---
 
 ## 4. Multi‑Agent Influence Mapping
 
-The agents interact conceptually through influence rather than direct control:
+Agents interact conceptually through influence rather than direct control:
 
 - **Weather Agent → Harmonic Field Agent**  
   Environmental intensity shapes harmonic behaviour.
@@ -76,7 +76,7 @@ The agents interact conceptually through influence rather than direct control:
 - **Harmonic Field Agent ↔ Rhythm Engine**  
   Ensures musical coherence across layers.
 
-This distributed mapping supports emergent behaviour.
+This distributed mapping supports **emergent behaviour**.
 
 ---
 
@@ -89,7 +89,7 @@ The system evolves over time through:
 - environmental modulation  
 - agent‑driven exploration  
 
-Time is treated as a dynamic dimension rather than a fixed sequence.
+Time is treated as a **dynamic dimension**, not a fixed sequence.
 
 ---
 
