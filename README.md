@@ -40,3 +40,37 @@ Detailed descriptions are available in `docs/agents.md`.
 ## 🧩 Documentation Structure
 
 
+docs/
+│
+├── overview.md
+├── agents.md
+├── architecture.md
+├── data-flow.md
+├── ai-models.md
+├── conceptual-mapping.md
+├── glossary.md
+└── references.md
+
+
+Each document expands a different layer of the conceptual framework.
+
+---
+
+## 🔒 Intellectual Property Notice
+
+This repository provides **conceptual and scientific documentation only**.  
+All implementation details — including code, algorithms, model architectures, parameters, training data, and internal logic — remain private and are not included here.
+
+---
+
+## 📄 License
+
+**CC BY‑NC‑ND 4.0**  
+This license allows citation and academic reference but prohibits commercial use, modification or redistribution of derivative versions.
+
+---
+
+## 📚 Research Context
+
+Developed under the FCT CEEC‑IND Grant 2024.09158.CEECIND  
+*AI as Catalyst — INET‑md, University of Aveiro*
