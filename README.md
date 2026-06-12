@@ -19,6 +19,20 @@
 It is important to emphasise that the AEROSONIC Sonifier is **not** a system that generates random MIDI or control data.  
 Instead, it operates as an **intelligent, multi‑agent behavioural ecosystem** in which musical decisions emerge from environmental interpretation, probabilistic reasoning and artificial intelligence.
 
+## Architecture Overview
+
+The following conceptual diagram illustrates the full architecture of the **AEROSONIC Sonifier** system, including data intake, AI intelligence, sonic generation, audiovisual output, and adaptive feedback loops.
+
+<p align="center">
+  <img src="assets/images/aerosonic_architecture_overview.png" alt="AEROSONIC Sonifier Architecture Overview" width="85%">
+</p>
+
+> *“We don’t just observe the climate.  
+> We translate it.  
+> We feel it.  
+> We sonify it.  
+> We dream with it.”*
+
 ---
 
 # 1. Purpose
