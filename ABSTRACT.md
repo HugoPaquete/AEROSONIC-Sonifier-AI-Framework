@@ -1,0 +1,3 @@
+# Abstract
+
+The **AEROSONIC Sonifier** is an unsupervised, multi‑agent artificial intelligence framework designed to transform meteorological and environmental data into real‑time musical behaviour. Developed within the FCT CEEC‑IND project *“AI as Catalyst”*, the system integrates anomaly detection, stochastic modelling, dreaming processes, harmonic and chaotic state transitions, and conceptual mapping strategies. This documentation provides the scientific, conceptual and architectural foundations of the AEROSONIC ecosystem, focusing exclusively on high‑level design and theoretical constructs. No source code or proprietary implementation details are included.
