@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "AEROSONIC Sonifier — AI Framework Documentation"
+message: "If you use this work, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Paquete
+    given-names: Hugo
+    orcid: "https://orcid.org/0000-0002-5844-3678"
+
+version: "1.0.0"
+date-released: "2026-06-12"
+
+repository-code: "https://github.com/HugoPaquete/AEROSONIC-Sonifier-AI-Framework"
+url: "https://www.hugopaquete.com"
+
+abstract: >
+  Conceptual AI framework for the AEROSONIC Sonifier ecosystem. Describes agents,
+  architecture, anomaly detection, dreaming processes and data flows for real-time
+  weather-driven musical systems. This repository contains documentation only and
+  does not include source code or proprietary implementation details.
+
+keywords:
+  - AI
+  - artificial intelligence
+  - sonification
+  - weather data
+  - meteorology
+  - data sonification
+  - generative music
+  - sound art
+  - multi-agent systems
+  - conceptual framework
+  - anomaly detection
+  - Isolation Forest
+  - real-time systems
+  - audiovisual systems
+  - computational creativity
+  - environmental data
+  - climate data
+  - artistic research
+
+license: "CC-BY-NC-ND-4.0"
