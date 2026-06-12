@@ -1,0 +1,117 @@
+{
+  "title": "AEROSONIC Sonifier — AI Framework Documentation",
+  "upload_type": "software",
+  "publication_type": "softwaredocumentation",
+  "description": "The AEROSONIC Sonifier AI Framework is a conceptual architecture for an unsupervised, multi-agent system that transforms meteorological and environmental data into real-time musical behaviour. This documentation describes the system's agents, anomaly detection processes, dreaming mechanisms, harmonic and chaotic states, data flows, conceptual mapping strategies and scientific context. Developed within the FCT CEEC-IND Grant 2024.09158.CEECIND — 'AI as Catalyst'. No source code or proprietary implementation is included.",
+  
+  "creators": [
+    {
+      "name": "Paquete, Hugo",
+      "orcid": "0000-0002-5844-3678",
+      "affiliation": "INET-md — Institute of Ethnomusicology, University of Aveiro"
+    }
+  ],
+
+  "contributors": [
+    {
+      "name": "Absonus Lab",
+      "type": "ResearchGroup",
+      "affiliation": "Portugal"
+    },
+    {
+      "name": "Planetário do Porto – Centro Ciência Viva",
+      "type": "Other",
+      "affiliation": "Portugal"
+    },
+    {
+      "name": "Ciencia Viva",
+      "type": "Other",
+      "affiliation": "Portugal"
+    },
+    {
+      "name": "OTTOsonics",
+      "type": "Other",
+      "affiliation": "Austria"
+    }
+  ],
+
+  "keywords": [
+    "AI",
+    "artificial intelligence",
+    "sonification",
+    "weather data",
+    "meteorology",
+    "data sonification",
+    "generative music",
+    "sound art",
+    "multi-agent systems",
+    "conceptual framework",
+    "anomaly detection",
+    "Isolation Forest",
+    "real-time systems",
+    "audiovisual systems",
+    "computational creativity",
+    "environmental data",
+    "climate data",
+    "artistic research",
+    "digital art",
+    "creative AI",
+    "environmental humanities"
+  ],
+
+  "license": "cc-by-nc-nd-4.0",
+  "version": "1.0.0",
+  "language": "eng",
+
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/HugoPaquete/AEROSONIC-Sonifier-AI-Framework",
+      "resource_type": "software"
+    }
+  ],
+
+  "funding": [
+    {
+      "funder": "Fundação para a Ciência e a Tecnologia (FCT)",
+      "funder_identifier": "https://ror.org/05sd8tv96",
+      "award_number": "2024.09158.CEECIND",
+      "award_title": "AI as Catalyst"
+    }
+  ],
+
+  "notes": "This deposit documents the conceptual architecture of the AEROSONIC Sonifier AI system, developed under the FCT CEEC-IND Grant 2024.09158.CEECIND — 'AI as Catalyst'. The framework integrates meteorological data acquisition, anomaly detection, dreaming processes, harmonic and chaotic modelling, and multi-agent interaction for real-time environmental sonification. No code or proprietary implementation is included.",
+
+  "access_right": "open",
+
+  "communities": [
+    { "identifier": "computational-creativity" },
+    { "identifier": "digital-arts" },
+    { "identifier": "sound-art" },
+    { "identifier": "art-science" }
+  ],
+
+  "subjects": [
+    {
+      "term": "Artificial Intelligence",
+      "identifier": "http://id.loc.gov/authorities/subjects/sh85008180"
+    },
+    {
+      "term": "Sonification",
+      "identifier": "http://id.loc.gov/authorities/subjects/sh2007005694"
+    },
+    {
+      "term": "Meteorology",
+      "identifier": "http://id.loc.gov/authorities/subjects/sh85084256"
+    },
+    {
+      "term": "Generative Music",
+      "identifier": "http://id.loc.gov/authorities/subjects/sh2007005693"
+    }
+  ],
+
+  "references": [
+    "Paquete, H. (2026). AEROSONIC Sonifier — AI Framework Documentation. INET-md / University of Aveiro.",
+    "FCT CEEC-IND Grant 2024.09158.CEECIND — AI as Catalyst"
+  ]
+}
