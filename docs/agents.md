@@ -1,118 +1,76 @@
-# AI Agents
+# AEROSONIC Sonifier — AI Framework (Conceptual Documentation)
 
-This document describes the conceptual agents that compose the AEROSONIC Sonifier — AI Framework.  
-Each agent represents a functional and behavioural component of the system, contributing to the transformation of meteorological data into dynamic musical states.
+This repository documents the conceptual architecture of the AI system developed for the **AEROSONIC Sonifier** — a real‑time meteorological sonification environment integrating unsupervised learning, multi‑agent behaviour and generative musical control.
 
-These descriptions are conceptual and do not include implementation details, algorithms, parameters or code.
-
----
-
-## Weather Agent
-
-The Weather Agent receives real‑time meteorological data and interprets it as a multidimensional feature space.  
-Its role is to:
-
-- normalise and contextualise incoming data  
-- detect relevant environmental patterns  
-- provide structured information to the remaining agents  
-- trigger state changes when conditions shift significantly  
-
-It acts as the system’s sensory layer.
+The goal of this repository is to provide a **scientific and structural overview** of the system without exposing proprietary code, algorithms, model parameters or implementation details.
 
 ---
 
-## Anomaly Detector
+## Purpose
 
-The Anomaly Detector identifies rare, unexpected or statistically unusual meteorological events.  
-Conceptually, it:
+The AEROSONIC Sonifier‑AI‑Framework describes:
 
-- monitors deviations from typical patterns  
-- signals transitions into special musical states  
-- influences the behaviour of the Dreaming AI and Quantum State Agent  
+- the conceptual design of the AI layer  
+- the agents that compose the system  
+- the data flow between meteorological input and musical output  
+- the principles guiding state transitions, behaviour and generative logic  
+- the scientific context of the CEEC‑FCT project *“AI as Catalyst”*  
 
-It is responsible for moments of surprise, tension or structural deviation.
-
----
-
-## Dreaming AI
-
-The Dreaming AI introduces emergent behaviour and generative variation.  
-It operates conceptually as:
-
-- a probabilistic imagination layer  
-- a generator of alternative trajectories  
-- a source of subtle or dramatic musical deviations  
-- a mediator between stability and exploration  
-
-It expands the expressive potential of the system beyond deterministic mapping.
+This repository is **documentation only**.  
+No source code, model weights or internal algorithms are included.
 
 ---
 
-## Quantum State Agent
+## AI Agents (Conceptual Overview)
 
-This agent manages stochastic transitions and event probabilities.  
-Its conceptual functions include:
+The system is composed of several interacting agents:
 
-- collapsing between possible musical states  
-- weighting transitions based on environmental conditions  
-- introducing controlled randomness  
-- shaping the temporal evolution of the system  
+- **Weather Agent** — interprets meteorological data and detects patterns or anomalies  
+- **Anomaly Detector** — identifies rare or unexpected states  
+- **Dreaming AI** — generates probabilistic variations and emergent behaviours  
+- **Quantum State Agent** — manages stochastic transitions and event probabilities  
+- **Harmonic Field Agent** — shapes harmonic space and tonal behaviour  
+- **Rhythm Engine** — produces temporal structures and rhythmic states  
+- **State Machine** — coordinates global system behaviour and transitions  
 
-It governs the system’s sense of unpredictability and fluidity.
-
----
-
-## Harmonic Field Agent
-
-The Harmonic Field Agent defines the tonal and harmonic behaviour of the system.  
-It conceptually:
-
-- establishes harmonic regions  
-- modulates tonal centres  
-- responds to environmental intensity  
-- interacts with the Rhythm Engine to create coherent musical states  
-
-It provides the harmonic identity of the sonification.
+Detailed descriptions are available in `docs/agents.md`.
 
 ---
 
-## Rhythm Engine
+## Documentation Structure
 
-The Rhythm Engine generates temporal structures and rhythmic patterns.  
-Its conceptual responsibilities include:
+```
+docs/
+│
+├── overview.md
+├── agents.md
+├── architecture.md
+├── data-flow.md
+├── ai-models.md
+├── conceptual-mapping.md
+├── glossary.md
+└── references.md
+```
 
-- producing rhythmic states  
-- adapting tempo and density to environmental conditions  
-- interacting with the Harmonic Field Agent  
-- supporting transitions triggered by the State Machine  
-
-It shapes the temporal dimension of the musical output.
-
----
-
-## State Machine
-
-The State Machine coordinates the global behaviour of the system.  
-Conceptually, it:
-
-- manages transitions between musical states  
-- integrates signals from all agents  
-- ensures coherence and continuity  
-- defines the macro‑structure of the sonification  
-
-It is the central organiser of the ecosystem.
+Each document expands a different layer of the conceptual framework.
 
 ---
 
-## Inter‑Agent Interaction
+## Intellectual Property Notice
 
-The agents operate as a distributed system.  
-Their interactions are:
+This repository provides **conceptual and scientific documentation only**.  
+All implementation details — including code, algorithms, model architectures, parameters, training data, and internal logic — remain private and are not included here.
 
-- **Weather Agent → Anomaly Detector**: provides data for anomaly evaluation  
-- **Anomaly Detector → State Machine**: triggers special states  
-- **Dreaming AI ↔ Quantum State Agent**: balances imagination and probability  
-- **Harmonic Field Agent ↔ Rhythm Engine**: ensures musical coherence  
-- **State Machine → All Agents**: coordinates global behaviour  
+---
 
-This multi‑agent structure enables emergent, adaptive and expressive musical behaviour.
+## License
+
+**CC BY‑NC‑ND 4.0**  
+This license allows citation and academic reference but prohibits commercial use, modification or redistribution of derivative versions.
+
+---
+
+## Research Context
+
+Developed under the **FCT CEEC‑IND Grant 2024.09158.CEECIND**  
+*AI as Catalyst — INET‑md, University of Aveiro*
