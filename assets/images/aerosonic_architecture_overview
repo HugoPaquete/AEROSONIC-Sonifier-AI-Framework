@@ -1,0 +1,13 @@
+## Architecture Overview
+
+The following conceptual diagram illustrates the full architecture of the **AEROSONIC Sonifier** system, including data intake, AI intelligence, sonic generation, audiovisual output, and adaptive feedback loops.
+
+<p align="center">
+  <img src="assets/images/aerosonic_architecture_overview.jpg" alt="AEROSONIC Sonifier Architecture Overview" width="85%">
+</p>
+
+> *“We don’t just observe the climate.  
+> We translate it.  
+> We feel it.  
+> We sonify it.  
+> We dream with it.”*
