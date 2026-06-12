@@ -22,6 +22,7 @@ Their role is conceptual rather than explicitly technical in this documentation.
 ## Conceptual Model Categories
 
 ### 1. Pattern Interpretation Models
+
 Used by the **Weather Agent** and **Anomaly Detector** to:
 
 - recognise environmental tendencies  
@@ -33,6 +34,7 @@ These models conceptually transform raw data into meaningful environmental infor
 ---
 
 ### 2. Generative Behaviour Models
+
 Used by the **Dreaming AI** to:
 
 - explore alternative trajectories  
@@ -44,6 +46,7 @@ These models conceptually expand the expressive space of the system.
 ---
 
 ### 3. Probabilistic Transition Models
+
 Used by the **Quantum State Agent** to:
 
 - manage stochastic transitions  
@@ -55,6 +58,7 @@ They conceptually govern the system’s fluidity and evolution.
 ---
 
 ### 4. Musical Behaviour Models
+
 Used by the **Harmonic Field Agent** and **Rhythm Engine** to:
 
 - shape harmonic regions  
