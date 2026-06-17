@@ -19,7 +19,6 @@ Conceptual design, scientific framework, documentation, architecture, methodolog
 - INET‑md — University of Aveiro  
 - Absonus Lab  
 - Planetário do Porto – Centro Ciência Viva  
-- Ciencia Viva  
 - OTTOsonics (Austria)
 
 ---
