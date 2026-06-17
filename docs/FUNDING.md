@@ -13,7 +13,6 @@ This project is funded by:
 ## Additional Support  
 - Absonus Lab — Research & Artistic Laboratory  
 - Planetário do Porto – Centro Ciência Viva  
-- Ciencia Viva — National Agency for Scientific and Technological Culture  
 - OTTOsonics (Austria)
 
 ---
