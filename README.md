@@ -193,9 +193,6 @@ These tools support conceptual clarity, documentation refinement and interdiscip
 > **Planetário do Porto – Centro Ciência Viva**  
 > https://www.planetarioporto.pt/
 
-> **Ciencia Viva — National Agency for Scientific and Technological Culture**  
-> https://www.cienciaviva.pt/
-
 > **OTTOsonics (Austria)**  
 > https://www.ottosonics.com/
 
