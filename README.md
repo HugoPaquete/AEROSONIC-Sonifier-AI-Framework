@@ -1,8 +1,10 @@
-![AEROSONIC Icon](assets/images/icons/aerosonic256x256.ico)
-
+<p align="center">
+  <img src="assets/images/icons/aerosonic256x256.ico" width="120" />
+</p>
 
 # AI as Catalyst | AEROSONIC SONIFIER  
 ## Unsupervised AI Weather Sonification System
+
 
 [![FCT Grant](https://img.shields.io/badge/FCT-2024.09158.CEECIND-green.svg)](https://www.fct.pt)
 [![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)]()
