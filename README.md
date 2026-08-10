@@ -1,3 +1,6 @@
+![AEROSONIC Icon](assets/images/icons/aerosonic256x256.ico)
+
+
 # AI as Catalyst | AEROSONIC SONIFIER  
 ## Unsupervised AI Weather Sonification System
 
