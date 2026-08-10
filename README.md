@@ -169,6 +169,16 @@ They illustrate how meteorological data, anomaly detection, harmonic/chaotic sta
 
 <p align="center"><em>Figure 5 — Kigali interface with meteorological data, sunspot activity, quantum field metrics and generative performance parameters.</em></p>
 
+## Hardware Interface — HELIOSONIC SONIFIER
+
+<p align="center">
+  <img src="assets/images/hardware/AER_heliosonic_hardware.jpg" width="480" />
+</p>
+
+**Figure — HELIOSONIC Hardware Interface**  
+Custom‑built physical interface designed for real‑time interaction with the AEROSONIC and HELIOSONIC sonification engines.  
+Includes tactile controls, neon‑accented design, and integration with the AI‑driven sonic behaviour system.
+
 ---
 
 # 6. Tools & AI Assistance
